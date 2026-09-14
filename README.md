@@ -6,7 +6,7 @@ Instructions:
 "dcpc-YEAR-indlevel-public.RDS" and "dcpc-YEAR-tranlevel-public.RDS". 
 YEAR should be replaced with: 2021, 2022, 2023, 2024, and 2025.
 
-2. Download the R-code check_25_2026_MM_DD.R from this folder.
+2. Download the R-code check25_2026_MM_DD.R from this folder.
 
 3. Start R with the R code, and reset the working directory 5 times! To do that, search for #2025_begins, then #2024_begins, down to #2021_begins. 
 In all 5, you will see the old setwd(~xxx/yyy) which you must change to identify where the data files that you just downloaded are located. 
