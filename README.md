@@ -1,4 +1,6 @@
-R-code and data for a blog titled: "Consumer Use of Personal Checks" by Oz Shy
+R-code and data for a blog titled: "Surveying Consumers' Use of Personal Checks" by Oz Shy
+
+https://github.com/ozshy/check25_blog 
 
 Instructions:
 
